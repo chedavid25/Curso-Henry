@@ -1,2 +1,1 @@
-# Curso-Henry
-Curso Introductorio de SoyHenry
+Este es un proyecto de prueba de repositorio
